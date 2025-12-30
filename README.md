@@ -40,6 +40,6 @@ python main.py
 
 # Author
 
-Name: Arnold Jeremiah Mwesigwa 
-Course: Software Engineering (BSF) 
+Name: Arnold Jeremiah Mwesigwa //
+Course: Software Engineering (BSF) //
 Institution: VU
