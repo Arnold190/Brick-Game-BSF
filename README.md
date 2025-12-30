@@ -3,9 +3,10 @@ Repo containing Source code from Brick Game Development coursework
 
 # Product Overview: 
 
-The Brick Breaker Game is a traditional 2D arcade game created with Pygame and Python. A ball is bounced by the player using a paddle, shattering bricks that are put on the screen. Destroying every brick while keeping the ball from going below the paddle is the goal. There are several stages in the game, each with a different level of difficulty, scoring, and life limit.
-
-This project was created as a component of a software engineering course, showcasing UML modelling, game architecture, and object-oriented design concepts. 
+The Brick Breaker Game is a traditional 2D arcade game created with Pygame and Python. 
+A ball is bounced by the player using a paddle, shattering bricks that are put on the screen.
+Destroying every brick while keeping the ball from going below the paddle is the goal. 
+There are several stages in the game, each with a different level of difficulty, scoring, and life limit.
 
 # Game Features
 
